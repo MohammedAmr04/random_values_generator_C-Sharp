@@ -38,7 +38,7 @@ Enter `1` to generate a random 4-digit number or `2` to generate a random 16-cha
 ## Example output
 
 - Option 1: `4827`
-- Option 2: `AqZ#x9Lm>R2tYpW!`
+- Option 2: `ZqXkTnLmPvRdWjC`
 
 ## Notes
 
